@@ -1,6 +1,6 @@
 # Ride Sharing sample k8s microservice project
 
-Checkout the https://www.selfmadeengineer.com/ where a full course is being built around this project.
+Checkout the https://www.selfmadeengineer.com/ where a full course was built around this project.
 
 ## Services
 
